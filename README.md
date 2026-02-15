@@ -1,5 +1,5 @@
 ## Hi there, it's Nyndow and:
- I’m currently working on different personal projects<br>👯 I’m looking to collaborate with other developers<br>🌱 I’m currently learning AI and machine learning
+ I’m currently working on different personal projects<br> I’m looking to collaborate with other developers<br> I’m currently learning AI and machine learning
 
 
 ##  Socials:
