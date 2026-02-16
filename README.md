@@ -1,6 +1,8 @@
 ## Hi there ^^ 
 From quirky experiments to serious projects, join me as I explore the world of tech, AI, and everything in between!
 
+## PS: I'm a big Linux enthusiast
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nyantsatiana)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nyantsatianany@gmail.com)
