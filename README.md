@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Idiqlat&size=30&pause=1000&color=E8DEF7&width=435&lines=Hi%2C+my+name's+Ny+%5E%5E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Idiqlat&size=30&duration=2000&pause=3000&color=E8DEF7&width=435&lines=Hi%2C+my+name's+Ny+%5E%5E)](https://git.io/typing-svg)
 
 From quirky experiments to serious projects, join me as I explore the world of tech, AI, and everything in between!
 
