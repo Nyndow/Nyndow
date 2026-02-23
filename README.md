@@ -1,7 +1,13 @@
-## Hi there ^^ 
+
+![2026-02-23-Hey-my-name-is-Ny](https://github.com/user-attachments/assets/b87a0ac2-443c-48fa-948b-c80f1d6b43f3)
+
 From quirky experiments to serious projects, join me as I explore the world of tech, AI, and everything in between!
 
+---
+
 ## PS: I'm a big Linux enthusiast
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nyantsatiana)
