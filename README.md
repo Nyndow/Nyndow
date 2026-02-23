@@ -1,5 +1,5 @@
 
-![2026-02-23-Hey-my-name-is-Ny](https://github.com/user-attachments/assets/b87a0ac2-443c-48fa-948b-c80f1d6b43f3)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Idiqlat&size=30&pause=1000&color=E8DEF7&width=435&lines=Hi%2C+my+name's+Ny+%5E%5E)](https://git.io/typing-svg)
 
 From quirky experiments to serious projects, join me as I explore the world of tech, AI, and everything in between!
 
