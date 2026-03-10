@@ -1,5 +1,17 @@
+<table>
+<tr>
+<td>
+
+<img src="https://github.com/user-attachments/assets/703e3167-aa65-405d-9fe6-8fb668507c7c" width="200">
+
+</td>
+<td>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Idiqlat&size=30&duration=2000&pause=3000&color=E8DEF7&width=435&lines=Hi%2C+my+name's+Ny+%5E%5E)](https://git.io/typing-svg)
+
+</td>
+</tr>
+</table>
 
 From quirky experiments to serious projects, join me as I explore the world of tech, AI, and everything in between!
 
