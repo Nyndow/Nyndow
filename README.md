@@ -7,7 +7,7 @@
 </td>
 <td>
 
-<img src="./assets/umaru.gif" width="220">
+<img src="./assets/umaru.gif" width="200">
 
 </td>
 </tr>
