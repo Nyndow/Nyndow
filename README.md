@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Idiqlat&size=30&duration=2000&pause=3000&color=E8DEF7&width=435&lines=Hi%2C+my+name's+Ny+%5E%5E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Idiqlat&size=30&duration=2000&pause=3000&color=E8DEF7&width=435&lines=Hi%2C+just+call+me+Ny+%5E%5E)](https://git.io/typing-svg)
 
 </td>
 <td>
