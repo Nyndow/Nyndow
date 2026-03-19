@@ -13,7 +13,7 @@
 </tr>
 </table>
 
-I'm a software engineering student. From quirky experiments to serious projects, join me as I explore the world of tech, AI, and everything in between!
+I'm a computer science student. From quirky experiments to serious projects, join me as I explore the world of tech, AI, and everything in between!
 
 ---
 
