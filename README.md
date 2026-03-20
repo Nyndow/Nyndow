@@ -1,17 +1,10 @@
-<table>
-<tr>
-<td>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Idiqlat&size=30&duration=2000&pause=3000&color=E8DEF7&width=435&lines=Hey%2C+you+can+just+call+me+Ny+%5E%5E)](https://git.io/typing-svg)
-
-</td>
-<td>
-
-<img src="./assets/umaru.webp" width="200">
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Idiqlat&size=30&duration=2000&pause=3000&color=E8DEF7&width=435&lines=Hey%2C+you+can+just+call+me+Ny+%5E%5E" alt="Typing SVG">
+</p>
+  <hr/>
+<p align="center">
+  <img src="./assets/umaru.webp" width="200" style="border-radius: 15px;">
+</p>
 
 I'm a computer science student. From quirky experiments to serious projects, join me as I explore the world of tech, AI, and everything in between!
 
