@@ -10,13 +10,15 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 ---
 
-## PS: I'm a big Linux enthusiast
-
----
+<p align="center">
+  <b>PS: I'm a big Linux enthusiast</b>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nyndow&label=Profile%20views&color=A0522D&style=flat" alt="nyndow" />
 </p>
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nyantsatiana)
