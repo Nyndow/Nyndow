@@ -117,4 +117,4 @@ I'm a computer science student. From quirky experiments to serious projects, joi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyndow&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </p>
 
-![views](https://profile-view-counter.vercel.app/api/views?user=nyndow)
+![views](https://profile-view-counter.vercel.app/api/views?user=nyndow&v=1)
