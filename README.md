@@ -10,6 +10,8 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 ---
 
+![views](https://profile-view-counter.vercel.app/api/views?user=nyndow)
+
 <p align="center">
   <b>PS: I'm a big Linux enthusiast</b>
 </p>
