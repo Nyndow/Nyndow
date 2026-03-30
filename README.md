@@ -10,8 +10,6 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 ---
 
-![views](https://profile-view-counter.vercel.app/api/views?user=nyndow)
-
 <p align="center">
   <b>PS: I'm a big Linux enthusiast</b>
 </p>
@@ -118,3 +116,5 @@ I'm a computer science student. From quirky experiments to serious projects, joi
   &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyndow&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 </p>
+
+![views](https://profile-view-counter.vercel.app/api/views?user=nyndow)
