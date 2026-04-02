@@ -17,7 +17,7 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 ---
 
-## 🌐 Socials:
+## 🌐 Contact me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nyantsatiana)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nyantsatianany@gmail.com)
 
