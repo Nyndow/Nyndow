@@ -92,15 +92,6 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 </details>
 
-<details>
-<summary>🧪 Testing & Design</summary>
-
-![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
-</details>
-
 ---
 
 # 📊 GitHub Stats
