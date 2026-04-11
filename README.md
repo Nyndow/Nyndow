@@ -25,7 +25,7 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 # 💻 Tech Stack
 
-<details>
+<details open>
 <summary>🧠 Programming Languages</summary>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -38,7 +38,7 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 </details>
 
-<details>
+<details open>
 <summary>🎨 Frontend Development</summary>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,7 +49,7 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 </details>
 
-<details>
+<details open>
 <summary>🛠 Backend Development</summary>
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -59,7 +59,7 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 </details>
 
-<details>
+<details open>
 <summary>🗄 Databases</summary>
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -69,7 +69,7 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 </details>
 
-<details>
+<details open>
 <summary>🤖 Data Science & AI</summary>
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
@@ -79,7 +79,7 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 </details>
 
-<details>
+<details open>
 <summary>⚙️ DevOps & Tools</summary>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
