@@ -34,7 +34,7 @@ I'm also passionate about open source development
 </p>
 
 ### Nyndow Assistant  
-A local AI assistant with Text-to-Speech and Speech-to-Text functions. 
+A local AI assistant with Text-to-Speech and Speech-to-Text functions.   
 https://github.com/Nyndow/nyndow-assistant  
 
 ### Facial Recognition Attendance System  
