@@ -42,7 +42,7 @@ Computer vision system that automates attendance using face recognition.
 https://github.com/Nyndow/Facial-Recognition-Attendance-System  
 
 ### thenkiri-dl 
-CLI tool for bulk downloading movies and dramas.  
+CLI tool for bunk downloading movies and dramas.  
 https://github.com/Nyndow/Thenkiri-dl  
 
 ### MachineGX
