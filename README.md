@@ -1,12 +1,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Idiqlat&size=30&duration=2000&pause=3000&color=A0522D&width=435&lines=Hey%2C+you+can+just+call+me+Ny+%5E%5E" alt="Typing SVG">
 </p>
-  <hr/>
+
+<hr/>
+
 <p align="center">
   <img src="./assets/umaru.webp" width="200" style="border-radius: 15px;">
 </p>
 
-I'm a computer science student. From quirky experiments to serious projects, join me as I explore the world of tech, AI, and everything in between! I'm also interested in open source projects!
+I'm a computer science student. From quirky experiments to serious projects, I explore the world of tech, AI, and everything in between.  
+I'm also passionate about open source development 🚀
 
 ---
 
@@ -17,9 +20,42 @@ I'm a computer science student. From quirky experiments to serious projects, joi
 
 ---
 
-## 🌐 Contact me on:
+## 🌐 Contact me on
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nyantsatiana)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nyantsatianany@gmail.com)
+
+---
+
+# 🚀 Open Source Projects
+
+<p align="center">
+  <i>Some things I've built, broken, and learned from:</i>
+</p>
+
+### Nyndow Assistant  
+AI-powered desktop assistant for automating tasks and improving productivity.  
+https://github.com/Nyndow/nyndow-assistant  
+
+### Facial Recognition Attendance System  
+Computer vision system that automates attendance using face recognition.  
+https://github.com/Nyndow/Facial-Recognition-Attendance-System  
+
+### thenkiri-dl 
+CLI tool for bulk downloading movies and dramas.  
+https://github.com/Nyndow/Thenkiri-dl  
+
+### Python Video Player  
+Custom video player built with Python and GUI features.  
+https://github.com/Nyndow/Python-video-player  
+
+### GUI QR Code Generator  
+Desktop app to generate QR codes with a simple graphical interface.  
+https://github.com/Nyndow/GUI-qr-code-generator  
+
+### Job Tracker  
+Tool to track jobs and companies information efficiently.  
+https://github.com/Nyndow/JobTracker  
 
 ---
 
