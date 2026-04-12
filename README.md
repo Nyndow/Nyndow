@@ -34,7 +34,7 @@ I'm also passionate about open source development
 </p>
 
 ### Nyndow Assistant  
-AI-powered desktop assistant for automating tasks and improving productivity.  
+A local AI assistant with Text-to-Speech and Speech-to-Text functions. 
 https://github.com/Nyndow/nyndow-assistant  
 
 ### Facial Recognition Attendance System  
@@ -44,6 +44,10 @@ https://github.com/Nyndow/Facial-Recognition-Attendance-System
 ### thenkiri-dl 
 CLI tool for bulk downloading movies and dramas.  
 https://github.com/Nyndow/Thenkiri-dl  
+
+### MachineGX
+Web platform to manage Linux systems.   
+https://github.com/Nyndow/MachineGX  
 
 ### Python Video Player  
 Custom video player built with Python and GUI features.  
