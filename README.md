@@ -43,7 +43,11 @@ https://github.com/Nyndow/Facial-Recognition-Attendance-System
 
 ### thenkiri-dl 
 CLI tool for bunk downloading movies and dramas.  
-https://github.com/Nyndow/Thenkiri-dl  
+https://github.com/Nyndow/Thenkiri-dl 
+
+### anime-dl 
+CLI tool for bunk downloading animes. 
+https://github.com/Nyndow/anime-dl
 
 ### MachineGX
 Web platform to manage Linux systems.   
